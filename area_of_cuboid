@@ -1,0 +1,11 @@
+let length=3;
+let width=4;
+let height=5;
+
+let area_of_cuboid;
+
+
+area_of_cuboid=length*width*height;
+
+console.log(area_of_cuboid);
+
