@@ -5,7 +5,7 @@ let height=5;
 let area_of_cuboid;
 
 
-area_of_cuboid=length*width*height;
+area_of_cuboid = length*width*height;
 
 console.log(area_of_cuboid);
 
