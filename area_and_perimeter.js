@@ -6,7 +6,7 @@ let perimeter_of_rectangle;
 
 area_of_rectangle=length*width;
 
-perimeter_of_rectangle=2*(length+width) ;
+perimeter_of_rectangle=2*(length+width);
 
 console.log(area_of_reactangle);
 
